@@ -5,31 +5,31 @@ var bitcoinRate = 0
 // TODO: items should be part of the Game variable
 var items = [
   {
-    "name": "item_oldCalculator",
+    "name": "item_1",
     "price": "0.0000001"
   },
   {
-    "name": "item_oldCpu",
+    "name": "item_2",
     "price": "0.00000125"
   },
   {
-    "name": "item_oldComputerFromGrandpa",
+    "name": "item_3",
     "price": "0.00003"
   },
   {
-    "name": "item_rapsberrypy",
+    "name": "item_4",
     "price": "0.00005"
   },
   {
-    "name": "item_smartphone",
+    "name": "item_5",
     "price": "0.0005"
   },
   {
-    "name": "item_middleClassPC",
+    "name": "item_6",
     "price": "0.0015"
   },
   {
-    "name": "item_cheapServer",
+    "name": "item_7",
     "price": "0.004"
   },
   {
